@@ -20,7 +20,7 @@ public class Persona {
     }
 
     public static void main(String[] args) {
-        Persona persona1 = new Persona("Antony", 32, 1.75);
+        Persona persona1 = new Persona("Yamile", 25, 1.61);
 
         persona1.imprimirDatos();
     }

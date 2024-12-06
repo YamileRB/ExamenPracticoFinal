@@ -21,7 +21,6 @@ public class Ejercicio3 {
             System.out.println("División (a + b) / c: " + division);
         } catch (ArithmeticException e) {
 
-            System.out.println("Error: No se puede dividir por cero.");
         }
     }
 }
